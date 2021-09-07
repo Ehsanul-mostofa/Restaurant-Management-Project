@@ -1,0 +1,54 @@
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.csprojAssemblyReference.cache
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.AddEmployee.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.AddItem.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.AddRawMaterials.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.AddUtility.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.Admin.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.Billing.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.EditEmployee.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.EditItem.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.EditPurchase.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.EditUtility.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.GridBilling.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.GridUtility.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.GridviewItem.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.Login.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.Manager.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.Profit_Details.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.PurchaseGridView.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.ShowEmployee.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+C:\Users\Ehsan\Desktop\New folder\bin\Debug\RestaurantManagement.exe.config
+C:\Users\Ehsan\Desktop\New folder\bin\Debug\RestaurantManagement.exe
+C:\Users\Ehsan\Desktop\New folder\bin\Debug\RestaurantManagement.pdb
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.Properties.Resources.resources
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.exe
+C:\Users\Ehsan\Desktop\New folder\obj\Debug\RestaurantManagement.pdb
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\bin\Debug\RestaurantManagement.exe.config
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\bin\Debug\RestaurantManagement.exe
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\bin\Debug\RestaurantManagement.pdb
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.csprojAssemblyReference.cache
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.AddEmployee.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.AddItem.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.AddRawMaterials.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.AddUtility.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.Admin.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.Billing.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.EditEmployee.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.EditItem.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.EditPurchase.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.EditUtility.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.GridBilling.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.GridUtility.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.GridviewItem.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.Login.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.Manager.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.Profit_Details.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.Properties.Resources.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.PurchaseGridView.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.ShowEmployee.resources
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.exe
+C:\Users\oracle\Downloads\RES_MAN_PROJECT\obj\Debug\RestaurantManagement.pdb

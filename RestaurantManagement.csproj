@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A685DCA-3CC4-43B1-8333-452A43061F72}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RestaurantManagement</RootNamespace>
+    <AssemblyName>RestaurantManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddEmployee.designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddItem.Designer.cs">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRawMaterials.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddRawMaterials.Designer.cs">
+      <DependentUpon>AddRawMaterials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUtility.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddUtility.Designer.cs">
+      <DependentUpon>AddUtility.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Billing.Designer.cs">
+      <DependentUpon>Billing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess.cs" />
+    <Compile Include="EditEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditEmployee.designer.cs">
+      <DependentUpon>EditEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditItem.Designer.cs">
+      <DependentUpon>EditItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditPurchase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditPurchase.Designer.cs">
+      <DependentUpon>EditPurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUtility.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditUtility.Designer.cs">
+      <DependentUpon>EditUtility.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gridBilling.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="gridBilling.Designer.cs">
+      <DependentUpon>gridBilling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GridUtility.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GridUtility.Designer.cs">
+      <DependentUpon>GridUtility.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GridviewItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GridviewItem.Designer.cs">
+      <DependentUpon>GridviewItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager.Designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profit Details.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Profit Details.designer.cs">
+      <DependentUpon>Profit Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseGridView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PurchaseGridView.Designer.cs">
+      <DependentUpon>PurchaseGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShowEmployee.designer.cs">
+      <DependentUpon>ShowEmployee.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddItem.resx">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRawMaterials.resx">
+      <DependentUpon>AddRawMaterials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUtility.resx">
+      <DependentUpon>AddUtility.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing.resx">
+      <DependentUpon>Billing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditEmployee.resx">
+      <DependentUpon>EditEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditItem.resx">
+      <DependentUpon>EditItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPurchase.resx">
+      <DependentUpon>EditPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUtility.resx">
+      <DependentUpon>EditUtility.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gridBilling.resx">
+      <DependentUpon>gridBilling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GridUtility.resx">
+      <DependentUpon>GridUtility.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GridviewItem.resx">
+      <DependentUpon>GridviewItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profit Details.resx">
+      <DependentUpon>Profit Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PurchaseGridView.resx">
+      <DependentUpon>PurchaseGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowEmployee.resx">
+      <DependentUpon>ShowEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza-2000602_1920.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
